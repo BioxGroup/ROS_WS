@@ -1,0 +1,1 @@
+/home/martin/Documents/repositories/firmware/biox_ws/devel/.private/biox_read/share/common-lisp/ros/biox_read/msg/biox_read-msg.asd

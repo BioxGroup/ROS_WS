@@ -1,0 +1,1 @@
+/home/martin/Documents/repositories/firmware/biox_ws/devel/.private/biox_read/share/gennodejs/ros/biox_read/msg/IMU.js

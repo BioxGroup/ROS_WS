@@ -1,0 +1,1 @@
+/home/martin/Documents/repositories/firmware/biox_ws/devel/.private/biox_read/share/roseus/ros/biox_read/manifest.l

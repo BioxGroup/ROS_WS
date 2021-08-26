@@ -1,0 +1,7 @@
+
+<launch>
+    <node pkg="biox_read" type="data_stream.py" name="read_node" output="screen"/>
+    <node pkg="biox_read" type="visualization.py" name="viz_node" output="screen" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="map_to_band" args="0 0 0.0 0 0 0  /map /base_link"/>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find biox_read)/rviz/armband.rviz" />
+</launch>

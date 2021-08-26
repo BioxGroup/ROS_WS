@@ -1,0 +1,6 @@
+devel_space: /home/martin/Documents/repositories/firmware/biox_ws/devel
+install: false
+install_space: /home/martin/Documents/repositories/firmware/biox_ws/install
+profile: default
+source_space: /home/martin/Documents/repositories/firmware/biox_ws/src
+workspace: /home/martin/Documents/repositories/firmware/biox_ws
